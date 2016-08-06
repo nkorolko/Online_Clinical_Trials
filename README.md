@@ -13,3 +13,25 @@ our method achieves a desired level of statistical power at a sample size that i
 approaches. Correspondingly, we expect that our approach could substantially reduce both
 the duration and operating costs of a clinical trial. This computationally tractable assignment
 mechanism is an effcient alternative to existing covariate-adaptive randomization methods.
+
+This paper is submitted to Biostatistics journal. 
+
+In this repository we present only codes in Julia for state-of-the-art covariate-adaptive randomization methods:
+
+1) Antognini 
+2) Pocock
+3) Atkinson.
+
+All of them are to some extent special versions of Efron`s biased coin designs.
+
+[1] Antognini, A. Baldi and Zagoraiou, Maroussa. (2011). The covariate-adaptive biased
+coin design for balancing clinical trials in the presence of prognostic factors. Biometrika 98(3),
+519-535.
+
+[2] Pocock, S. J. and Simon, R. (1975). Sequential treatment assignment with balancing for
+prognostic factors in the controlled clinical trial. Biometrics 31(1), 103-115.
+
+[3] Atkinson, A. C. (1982). Optimum biased coin designs for sequential clinical trials with prognostic
+factors. Biometrika 69(1), 61-67.
+
+[4] http://julialang.org/
