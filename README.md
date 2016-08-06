@@ -1,4 +1,5 @@
-# Online Clinical Trials
+# Covariate-adaptive optimization in online clinical
+trials 
 
 State-of-the-art methods for covariate-adaptive randomization
 
@@ -12,4 +13,4 @@ our method achieves a desired level of statistical power at a sample size that i
 35% smaller (14% smaller, respectively) relative to state-of-the-art covariate-adaptive randomization
 approaches. Correspondingly, we expect that our approach could substantially reduce both
 the duration and operating costs of a clinical trial. This computationally tractable assignment
-mechanism is an ecient alternative to existing covariate-adaptive randomization methods.
+mechanism is an effcient alternative to existing covariate-adaptive randomization methods.
