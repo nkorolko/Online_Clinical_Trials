@@ -19,7 +19,9 @@ This paper is submitted to Biostatistics journal.
 In this repository we present only codes in Julia for state-of-the-art covariate-adaptive randomization methods:
 
 1) Antognini 
+
 2) Pocock
+
 3) Atkinson.
 
 All of them are to some extent special versions of Efron`s biased coin designs.
